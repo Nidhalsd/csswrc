@@ -1,0 +1,58 @@
+
+body{
+  /*background-image: url("./blue-shades-pattern-with-copy-space.jpg");
+   background-repeat: no-repeat;
+   */
+   background-color: #edede9;
+
+   background-size: cover;
+}
+
+.titre {
+  
+    font-size: 70px;
+    text-align: center;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
+}
+
+nav {
+
+    text-align: center;
+    font-size: 30px;
+    display: inline;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
+}
+
+h2{
+  
+    background-color: #d6ccc2;
+    
+}
+
+h4{ 
+    
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+section{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
